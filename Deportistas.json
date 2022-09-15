@@ -1,0 +1,12 @@
+{
+    "Deportistas": {
+        "id": "number",
+        "nombres": "string",
+        "apellidos": "string",
+        "cedula": "string",
+        "telefono": "string",
+        "edad": "string",
+        "fecha_nacimiento": "date",
+        "estatura": "number"
+    }
+}

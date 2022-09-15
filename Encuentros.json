@@ -1,0 +1,11 @@
+{
+    "Encuentros": {
+        "id": "number",
+        "equipo_local": "string",
+        "equipo_visitante": "string",
+        "fecha": "string",
+        "hora": "string",
+        "arbitro": "string",
+        "lugar": "date"
+    }
+}

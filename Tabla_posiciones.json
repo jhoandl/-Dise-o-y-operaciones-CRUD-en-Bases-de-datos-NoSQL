@@ -1,0 +1,11 @@
+{
+    "Tabla_de_posiciones": {
+        "id": "number",
+        "equipo": "string",
+        "goles_favor": "string",
+        "goles_encontra": "string",
+        "partidos_jugados": "string",
+        "partidos_perdidos": "string",
+        "puntos_totales": "string"
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "nombres": "Carlos Daniel",
+        "apellidos": "Lenis Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "40",
+        "fecha_nacimiento": "20/05/1982",
+        "estatura": "1.70"
+    },
+    {
+        "id": "2",
+        "nombres": "Cesar Augusto",
+        "apellidos": "Cruz Trullo",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "55",
+        "fecha_nacimiento": "10/03/1967",
+        "estatura": "1.65"
+    },
+    {
+        "id": "3",
+        "nombres": "Camilo Andres",
+        "apellidos": "Leon Uran",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "45",
+        "fecha_nacimiento": "22/09/1977",
+        "estatura": "1.60"
+    },
+    {
+        "id": "4",
+        "nombres": "Pedro Antonio",
+        "apellidos": "Pelaez Castro",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "50",
+        "fecha_nacimiento": "01/06/1972",
+        "estatura": "1.80"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "id": "1",
+        "equipo_local": [
+            {
+                "id": "1",
+                "nombre": "Real Madrid",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "2",
+                "nombre": "Barcelona",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "19/sept/2022",
+        "hora": "14:00 pm",
+        "arbitro": [
+            {
+                "id": "1",
+                "nombres": "Hectro Javier",
+                "apellidos": "Cuervo Ramirez",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "40",
+                "fecha_nacimiento": "23/08/1982",
+                "estatura": "1.60"
+            }
+        ],
+        "lugar": "Santiago Bernabeu"
+    },
+    {
+        "id": "2",
+        "equipo_local": [
+            {
+                "id": "5",
+                "nombre": "Atlético de Madrid",
+                "ciudad": "Español",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "4",
+                "nombre": "Getafe",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "19/sept/2022",
+        "hora": "15:00 pm",
+        "arbitro": [
+            {
+                "id": "2",
+                "nombres": "Carlos Antonio",
+                "apellidos": "Castro",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "50",
+                "fecha_nacimiento": "25/01/1972",
+                "estatura": "1.76"
+            }
+        ],
+        "lugar": "Metropolitano"
+    },
+    {
+        "id": "3",
+        "equipo_local": [
+            {
+                "id": "2",
+                "nombre": "Barcelona",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "4",
+                "nombre": "Getafe",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "20/sept/2022",
+        "hora": "17:00 pm",
+        "arbitro": [
+            {
+                "id": "3",
+                "nombres": "Jose Angel",
+                "apellidos": "Pelaez",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "30",
+                "fecha_nacimiento": "22/11/1992",
+                "estatura": "1.70"
+            }
+        ],
+        "lugar": "Camp Nou"
+    },
+    {
+        "id": "4",
+        "equipo_local": [
+            {
+                "id": "5",
+                "nombre": "Atlético de Madrid",
+                "ciudad": "Español",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "1",
+                "nombre": "Real Madrid",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "20/sept/2022",
+        "hora": "18:00 pm",
+        "arbitro": [
+            {
+                "id": "4",
+                "nombres": "Breiner Mateo",
+                "apellidos": "Longa",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "35",
+                "fecha_nacimiento": "15/07/1987",
+                "estatura": "1.75"
+            }
+        ],
+        "lugar": "Metropolitano"
+    },
+    {
+        "id": "5",
+        "equipo_local": [
+            {
+                "id": "1",
+                "nombre": "Real Madrid",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "4",
+                "nombre": "Getafe",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "21/sept/2022",
+        "hora": "12:00 pm",
+        "arbitro": [
+            {
+                "id": "1",
+                "nombres": "Hectro Javier",
+                "apellidos": "Cuervo Ramirez",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "40",
+                "fecha_nacimiento": "23/08/1982",
+                "estatura": "1.60"
+            }
+        ],
+        "lugar": "Santiago Bernabeu"
+    },
+    {
+        "id": "6",
+        "equipo_local": [
+            {
+                "id": "2",
+                "nombre": "Barcelona",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "equipo_visitante": [
+            {
+                "id": "5",
+                "nombre": "Atlético de Madrid",
+                "ciudad": "Español",
+                "num_integrantes": "5"
+            }
+        ],
+        "fecha": "21/sept/2022",
+        "hora": "13:00 pm",
+        "arbitro": [
+            {
+                "id": "3",
+                "nombres": "Jose Angel",
+                "apellidos": "Pelaez",
+                "cedula": "12345456789",
+                "telefono": "3183015862",
+                "edad": "30",
+                "fecha_nacimiento": "22/11/1992",
+                "estatura": "1.70"
+            }
+        ],
+        "lugar": "Camp Nou"
+    }
+]

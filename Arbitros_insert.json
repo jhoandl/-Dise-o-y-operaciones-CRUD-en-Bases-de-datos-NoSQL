@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "nombres": "Hectro Javier",
+        "apellidos": "Cuervo Ramirez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "40",
+        "fecha_nacimiento": "23/08/1982",
+        "estatura": "1.60"
+    },
+    {
+        "id": "2",
+        "nombres": "Carlos Antonio",
+        "apellidos": "Castro",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "50",
+        "fecha_nacimiento": "25/01/1972",
+        "estatura": "1.76"
+    },
+    {
+        "id": "3",
+        "nombres": "Jose Angel",
+        "apellidos": "Pelaez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "30",
+        "fecha_nacimiento": "22/11/1992",
+        "estatura": "1.70"
+    },
+    {
+        "id": "4",
+        "nombres": "Breiner Mateo",
+        "apellidos": "Longa",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "35",
+        "fecha_nacimiento": "15/07/1987",
+        "estatura": "1.75"
+    }
+]

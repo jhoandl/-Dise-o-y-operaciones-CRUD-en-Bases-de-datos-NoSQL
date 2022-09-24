@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "equipo": [
+            {
+                "id": "2",
+                "nombre": "Barcelona",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "goles_favor": "4",
+        "goles_encontra": "4",
+        "partidos_jugados": "3",
+        "partidos_perdidos": "2",
+        "puntos_totales": "3"
+    },
+    {
+        "id": "2",
+        "equipo": [
+            {
+                "id": "1",
+                "nombre": "Real Madrid",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "goles_favor": "4",
+        "goles_encontra": "1",
+        "partidos_jugados": "3",
+        "partidos_perdidos": "0",
+        "puntos_totales": "7"
+    },
+    {
+        "id": "3",
+        "equipo": [
+            {
+                "id": "5",
+                "nombre": "Atlético de Madrid",
+                "ciudad": "Español",
+                "num_integrantes": "5"
+            }
+        ],
+        "goles_favor": "4",
+        "goles_encontra": "6",
+        "partidos_jugados": "3",
+        "partidos_perdidos": "1",
+        "puntos_totales": "4"
+    },
+    {   
+    "id": "4",
+        "equipo": [
+            {
+                "id": "4",
+                "nombre": "Getafe",
+                "ciudad": "España",
+                "num_integrantes": "5"
+            }
+        ],
+        "goles_favor": "4",
+        "goles_encontra": "5",
+        "partidos_jugados": "3",
+        "partidos_perdidos": "2",
+        "puntos_totales": "3"
+    }
+]

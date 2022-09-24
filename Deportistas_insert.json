@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "nombres": "Maynor Antonio",
+        "apellidos": "Lenis Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "2",
+        "nombres": "Carlos Daniel",
+        "apellidos": "Lenis Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "3",
+        "nombres": "Diego Fernando",
+        "apellidos": "Sanchez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "4",
+        "nombres": "Esteban David",
+        "apellidos": "Serrano",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "5",
+        "nombres": "Juan Esteban",
+        "apellidos": "Leon Uran",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "6",
+        "nombres": "Yair",
+        "apellidos": "Mondragon",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "7",
+        "nombres": "Jose Anibal",
+        "apellidos": "Londoño",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "8",
+        "nombres": "Jesus Esaunel",
+        "apellidos": "Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "9",
+        "nombres": "Fredy Guevara",
+        "apellidos": "Melo",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "10",
+        "nombres": "Jeferson",
+        "apellidos": "Herrera",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "11",
+        "nombres": "Juan Carlos",
+        "apellidos": "Lenis Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "12",
+        "nombres": "Jhon Geovani",
+        "apellidos": "Jimenez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "13",
+        "nombres": "Hector",
+        "apellidos": "Dominguez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "14",
+        "nombres": "Diego",
+        "apellidos": "Rodriguez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "15",
+        "nombres": "Mateo",
+        "apellidos": "Lenis",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "16",
+        "nombres": "Miguel Angel",
+        "apellidos": "Castro",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "17",
+        "nombres": "Kevin",
+        "apellidos": "Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "18",
+        "nombres": "Duban",
+        "apellidos": "Lenis",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "19",
+        "nombres": "Jorge",
+        "apellidos": "Hernandez",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    },
+    {
+        "id": "20",
+        "nombres": "Genaro",
+        "apellidos": "Lenis Montoya",
+        "cedula": "12345456789",
+        "telefono": "3183015862",
+        "edad": "20",
+        "fecha_nacimiento": "23/08/2002",
+        "estatura": "1.75"
+    }
+]

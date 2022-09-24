@@ -3,6 +3,8 @@
         "id": "number",
         "nombre": "string",
         "ciudad": "string",
-        "num_integrantes": "number"
+        "num_integrantes": "number",
+        "Deportistas": "number",
+        "Entrenador": "number"
     }
 }
